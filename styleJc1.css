@@ -1,0 +1,40 @@
+body {
+    background-color:cornflowerblue;
+}
+h1 {
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+p {
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:1.2em;
+    text-indent:2em;
+}
+h2 {
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+img {
+    margin-left:7.89em;
+}
+#xnjdylSmall {
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:23em;
+    color:whitesmoke
+}
+a {
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:1.2em;
+    text-indent:2em;
+}
+li {
+    color:white;
+}
+li.zbgz {
+    margin-left:2em;
+}
+p.zbgz {
+    text-indent:0em;
+}
